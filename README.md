@@ -60,7 +60,6 @@ python main.py
 - Control the snake to eat food.
 - The snake grows longer with each piece of food eaten.
 - Avoid hitting the walls or the snake's own body.
-- [Add any other specific gameplay details here.]
 
 ## Controls
 
